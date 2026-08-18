@@ -61,7 +61,7 @@ pedido_itens: itens vinculados a cada pedido.
 
 ## Roadmap Inicial
 
-# Fase 1 - Organizar a Base
+### Fase 1 - Organizar a Base
 Padronizar nomes de arquivos.
 Corrigir textos com encoding quebrado.
 Proteger todas as telas administrativas.
@@ -69,14 +69,14 @@ Criar constraints importantes no banco.
 Melhorar README e documentacao interna.
 Versionar o projeto no GitHub.
 
-# Fase 2 - Comandas Visuais
+### Fase 2 - Comandas Visuais
 Criar tela principal de mesas mais visual.
 Adicionar status: livre, ocupada, reservada, aguardando pagamento.
 Permitir abrir comanda clicando diretamente na mesa.
 Mostrar total, tempo aberto e quantidade de itens na mesa.
 Melhorar fluxo de adicionar itens.
 
-# Fase 3 - Operacao de Restaurante
+### Fase 3 - Operação de Restaurante
 Criar usuarios e permissoes.
 Registrar qual garcom abriu/lancou cada pedido.
 Criar painel de cozinha/bar.
@@ -84,7 +84,7 @@ Adicionar status por item: enviado, preparando, pronto, entregue.
 Permitir transferir mesa.
 Permitir dividir ou juntar contas.
 
-# Fase 4 - Gestao e Escala
+### Fase 4 - Gestão e Escala
 Fechamento de caixa.
 Relatorios por periodo.
 Controle de estoque.
